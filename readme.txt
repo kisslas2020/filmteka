@@ -1,0 +1,17 @@
+venni kenyer
+venni kenyer
+venni tej
+venni kenyer
+venni kenyer
+venni cukor
+venni kenyer
+venni kenyer
+venni vaj
+venni kenyer
+venni kenyer
+venni cukor
+venni cukor
+venni cukor
+venni kenyer
+venni cukor
+venni cukor
