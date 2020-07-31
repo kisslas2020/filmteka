@@ -1,0 +1,112 @@
+
+@font-face {
+    font-family: "Balsamiq";
+    src: url("/fonts/Balsamiq/BalsamiqSans-Regular.ttf");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Balsamiq-italic";
+    src: url("/fonts/Balsamiq/BalsamiqSans-Italic.ttf");
+    font-weight: 300;
+}
+
+h1 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: solid green 1px;
+    padding: 10px;
+}
+
+h3 {
+    color: brown;
+    text-transform: uppercase;
+}
+
+p {
+    color:red;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.bold {
+    font-weight: bold;
+    color: green;
+}
+
+
+.light {
+    background-color: lightyellow;
+}
+
+.osztaly {
+    background-color: deepskyblue;
+}
+
+#greenId {
+    color: cadetblue;
+}
+
+.img-div {
+    background-color: lightgreen;
+}
+
+img {
+    width: 12.4%;
+    margin: 1.9%;
+    box-shadow: 3px 3px 10px green;
+}
+
+/* #img1 {
+position: absolute;
+top: 50px;
+} */
+
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 139, 0.5);
+}
+
+#katalogus {
+background: url("/img/stylish-hexagonal-line-pattern-background_1017-19742.jpg") no-repeat;
+}
+
+
+
+.login-div input[class="form-control"] {
+    display: block;
+    margin-bottom: 7px;
+    background-color: yellow;
+
+}
+
+.login-div input[name^="dir"] {
+    border: solid 2px blue;
+}
+
+.login-div input[name$="tle"] {
+    border: solid 2px red;
+}
+
+.login-div button:hover {
+    box-shadow: 2px 2px 3px #c0c0c0;
+}
+
+.login-div input:focus {
+    background-color: yellowgreen;
+    border: none;
+}
+
+#directors ul li:last-child {
+    font-size: 24px;
+}
+#directors ul li:first-child {
+    color: tomato;
+}
+#directors ul li:nth-child(2) {
+    text-decoration: underline;
+}
+
